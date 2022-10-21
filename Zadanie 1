@@ -8,3 +8,4 @@ int main()
 		cout << "Polsko Japonska Akademia Technik Komputerowych w Gdansku\n";
 
 		return 0;
+}
