@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	cout << "Kamil\n";
+	cout << "s28839\n";
+		cout << "Polsko Japonska Akademia Technik Komputerowych w Gdansku\n";
+
+		return 0;
