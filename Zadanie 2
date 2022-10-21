@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int number;
+
+	cout << "Podaj liczbe calkowita: ";
+	cin >> number;
+	if (number >= 0) {
+		cout << "Wpisales liczbe calkowita dodatnia:" << number << endl;
+	}
+	else {
+		cout << "Wpisales ujemna liczbe calkowita:" << number << endl;
+
+		cout << "Dziękuje";
+	}
+
+	return 0;
